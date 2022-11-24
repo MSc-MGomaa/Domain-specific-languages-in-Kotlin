@@ -17,3 +17,5 @@ The GUI we have developed to apply the DSL concept can be seen in the figure bel
 
 <p align="center">
 <img width="300" height="400" src="https://github.com/MSc-MGomaa/Domain-specific-languages-in-Kotlin/blob/7a7d0ac5263acd8993fb5a0f5f18e1656008ffc7/Interface.png">
+
+To use the program, you need to run the GUI.kt in the src file!
